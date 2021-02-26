@@ -1,0 +1,23 @@
+
+# 环境接口的配置信息
+LoginUrl:
+    http://cas.gw.test.com
+
+YunDengUrl:
+    http://yundeng-console.common.aliyun.com
+
+
+# 登录账号
+YueDanTestAdmin:
+    username: yuedantestadmin
+    password: 2493f190d57de99da0ba181cf5acc191
+    tenantCode: 2569f3427138b8fc16a6da2f02178aa5
+
+YueDan01:
+    username: yuedan01
+    password: 2493f190d57de99da0ba181cf5acc191
+    tenantCode: 2569f3427138b8fc16a6da2f02178aa5
+
+#登录代理
+Proxies:
+    http: http://47.111.238.207:18082
